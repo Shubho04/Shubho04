@@ -1,5 +1,5 @@
 <!---
-RealStr1ke/RealStr1ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shubho04/Shubho04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">About Me</h3>
 
 ```JavaScript
-const str1ke = {
+const Shubho04 = {
     introduction: "Hi! 👋 | I'm a 21 year old university student who just programs random projects for fun.",
     tech stack: [Next.js + TailwindCSS],
     interests: ["Games", "Music", "Using Arch"],
