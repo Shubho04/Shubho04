@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 const Shubho04 = {
     introduction: "Hi! 👋 | I'm a 21 year old university student who just programs random projects for fun.",
     tech stack: [Next.js + TailwindCSS],
-    interests: ["Games", "Music", "Using Arch"],
+    interests: ["Games", "Music" ],
     funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
 };
 ```
